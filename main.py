@@ -13,7 +13,6 @@ from net import Net
 import torch.optim as optim
 import time
 from net import BATCH_SIZE,learning_rate,EPOCHS
-from tqdm import tqdm
 
 transform = transforms.Compose([
     transforms.RandomHorizontalFlip(p=0.5),
