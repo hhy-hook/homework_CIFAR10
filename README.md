@@ -1,5 +1,4 @@
 # homework_CIFAR10
-## Introduction
 
 ## Installation
 ### Step 1: Clone the Code from Github
